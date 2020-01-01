@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/img_question_easy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp"
+        android:adjustViewBounds="true"
+        app:srcCompat="@drawable/level1" />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <ImageView
+            android:id="@+id/btn_benar"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/benar"
+            android:padding="4dp"
+            android:adjustViewBounds="true"/>
+
+        <ImageView
+            android:id="@+id/btn_salah"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="100dp"
+            app:srcCompat="@drawable/salah"
+            android:padding="4dp"
+            android:adjustViewBounds="true"/>
+    </LinearLayout>
+
+</LinearLayout>

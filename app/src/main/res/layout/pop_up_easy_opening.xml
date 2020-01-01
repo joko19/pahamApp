@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="350dp"
+    android:layout_height="475dp"
+    android:background="@color/colorBlue"
+    android:padding="5dp"
+    android:layout_gravity="center">
+    <TextView
+        android:id="@+id/tv_close_easy_open"
+        android:layout_width="30dp"
+        android:layout_height="30dp"
+        android:textColor="@color/colorWhite"
+        android:text="X"
+        android:textStyle="bold"
+        android:layout_gravity="end"
+        android:gravity="center"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/img_pop_up_opening"
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:src="@drawable/pol1"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"/>
+        <TextView
+            android:id="@+id/opening_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Selamat Datang  di Easy Level"
+            android:textStyle="bold"
+            android:textColor="@color/colorWhite"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="5dp"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:background="@color/colorGreen"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="100dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level Aman"
+                android:textSize="18sp"
+                android:textColor="@color/colorBlack"/>
+            <TextView
+                android:id="@+id/opening_aman"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1 - 10"
+                android:textSize="18sp"
+                android:textColor="@color/colorBlack"/>
+        </LinearLayout>
+        <LinearLayout
+            android:background="@color/colorRed"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="100dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Level Merah"
+                android:textStyle="bold"
+                android:textSize="18sp"
+                android:textColor="@color/colorWhite"/>
+            <TextView
+                android:id="@+id/opening_merah"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="11 - 40"
+                android:textSize="18sp"
+                android:textColor="@color/colorWhite"/>
+        </LinearLayout>
+        <LinearLayout
+            android:background="@color/colorBlack"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="100dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Score/Level"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                android:textColor="@color/colorWhite"/>
+            <TextView
+                android:id="@+id/opening_score"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="+5"
+                android:textColor="@color/colorWhite"
+                android:textSize="18sp"/>
+        </LinearLayout>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/opening_description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Setiap Soal berupa gambar dan pernyataan singkat, apabila gambar dan penyataan sesuai, silahkan menjawab benar, jika tidak sesuai silahkan menjawab salah. selamat mengerjakan."
+        android:textColor="@color/colorWhite"
+        android:textStyle="bold"
+        android:textAlignment="center"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="5dp"/>
+    <Button
+        android:id="@+id/btn_easy_start"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Paham dan mulai"
+        android:layout_marginTop="25dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@color/colorWhite"
+        android:textStyle="bold"/>
+
+</LinearLayout>

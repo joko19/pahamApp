@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jack.paham">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/circle_icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/circle_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".difficult.WinnerActivity"/>
+        <activity android:name=".difficult.DiffGameOver"/>
+        <activity android:name=".difficult.DifficultLevel"
+            android:parentActivityName=".LevelActivity"/>
+        <activity android:name=".difficult.DifficultActivity"
+            android:parentActivityName=".difficult.DifficultLevel"/>
+        <activity
+            android:name=".hard.HardGameOver"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".adapter.HardActivity"
+            android:parentActivityName=".hard.HardLevel" />
+        <activity
+            android:name=".hard.HardLevel"
+            android:parentActivityName=".LevelActivity" />
+        <activity
+            android:name=".medium.GameOverMedium"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".medium.MediumActivity"
+            android:parentActivityName=".medium.MediumLevel" />
+        <activity
+            android:name=".medium.MediumLevel"
+            android:parentActivityName=".LevelActivity" />
+        <activity
+            android:name=".AboutActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".RecordActivity"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".GameOverActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
+        <activity
+            android:name=".EasyActivity"
+            android:parentActivityName=".SubLevelActivity" />
+        <activity
+            android:name=".SubLevelActivity"
+            android:parentActivityName=".LevelActivity" />
+        <activity android:name=".LevelActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.AppCompat.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

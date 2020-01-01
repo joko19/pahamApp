@@ -1,0 +1,459 @@
+<resources>
+    <string name="app_name">paham</string>
+    <array name="data_level_easy">
+        <item>@drawable/level1</item>
+        <item>@drawable/level2</item>
+        <item>@drawable/level3</item>
+        <item>@drawable/level4</item>
+        <item>@drawable/level5</item>
+        <item>@drawable/level6</item>
+        <item>@drawable/level7</item>
+        <item>@drawable/level8</item>
+        <item>@drawable/level9</item>
+        <item>@drawable/level10</item>
+        <item>@drawable/level11</item>
+        <item>@drawable/level12</item>
+        <item>@drawable/level13</item>
+        <item>@drawable/level14</item>
+        <item>@drawable/level15</item>
+        <item>@drawable/level16</item>
+        <item>@drawable/level17</item>
+        <item>@drawable/level18</item>
+        <item>@drawable/level19</item>
+        <item>@drawable/level20</item>
+        <item>@drawable/l21</item>
+        <item>@drawable/l22</item>
+        <item>@drawable/l23</item>
+        <item>@drawable/l24</item>
+        <item>@drawable/l25</item>
+        <item>@drawable/l26</item>
+        <item>@drawable/l27</item>
+        <item>@drawable/l28</item>
+        <item>@drawable/l29</item>
+        <item>@drawable/l30</item>
+        <item>@drawable/l31</item>
+        <item>@drawable/l32</item>
+        <item>@drawable/l33</item>
+        <item>@drawable/l34</item>
+        <item>@drawable/l35</item>
+        <item>@drawable/l36</item>
+        <item>@drawable/l37</item>
+        <item>@drawable/l38</item>
+        <item>@drawable/l39</item>
+        <item>@drawable/l40</item>
+    </array>
+
+    <array name="data_question_easy">
+        <item>@drawable/soal1</item>
+        <item>@drawable/soal2</item>
+        <item>@drawable/soal3</item>
+        <item>@drawable/soal4</item>
+        <item>@drawable/soal5</item>
+        <item>@drawable/soal6</item>
+        <item>@drawable/soal7</item>
+        <item>@drawable/soal8</item>
+        <item>@drawable/soal9</item>
+        <item>@drawable/soal10</item>
+        <item>@drawable/soal11</item>
+        <item>@drawable/soal12</item>
+        <item>@drawable/soal13</item>
+        <item>@drawable/soal14</item>
+        <item>@drawable/soal15</item>
+        <item>@drawable/soal16</item>
+        <item>@drawable/soal17</item>
+        <item>@drawable/soal18</item>
+        <item>@drawable/soal19</item>
+        <item>@drawable/soal20</item>
+        <item>@drawable/soal21</item>
+        <item>@drawable/soal22</item>
+        <item>@drawable/soal23</item>
+        <item>@drawable/soal24</item>
+        <item>@drawable/soal25</item>
+        <item>@drawable/e26</item>
+        <item>@drawable/e27</item>
+        <item>@drawable/e28</item>
+        <item>@drawable/e29</item>
+        <item>@drawable/e30</item>
+        <item>@drawable/e31</item>
+        <item>@drawable/e32</item>
+        <item>@drawable/e33</item>
+        <item>@drawable/e34</item>
+        <item>@drawable/e35</item>
+        <item>@drawable/e36</item>
+        <item>@drawable/e37</item>
+        <item>@drawable/e38</item>
+        <item>@drawable/e39</item>
+        <item>@drawable/e40</item>
+    </array>
+
+    <array name="no_medium">
+        <item>@drawable/l41</item>
+        <item>@drawable/l42</item>
+        <item>@drawable/l43</item>
+        <item>@drawable/l44</item>
+        <item>@drawable/l45</item>
+        <item>@drawable/l46</item>
+        <item>@drawable/l47</item>
+        <item>@drawable/l48</item>
+        <item>@drawable/l49</item>
+        <item>@drawable/l50</item>
+        <item>@drawable/l51</item>
+        <item>@drawable/l52</item>
+        <item>@drawable/l53</item>
+        <item>@drawable/l54</item>
+        <item>@drawable/l55</item>
+        <item>@drawable/l56</item>
+        <item>@drawable/l57</item>
+        <item>@drawable/l58</item>
+        <item>@drawable/l59</item>
+        <item>@drawable/l60</item>
+        <item>@drawable/l61</item>
+        <item>@drawable/l62</item>
+        <item>@drawable/l63</item>
+        <item>@drawable/l64</item>
+        <item>@drawable/l65</item>
+        <item>@drawable/l66</item>
+        <item>@drawable/l67</item>
+        <item>@drawable/l68</item>
+        <item>@drawable/l69</item>
+        <item>@drawable/l70</item>
+    </array>
+
+    <array name="soal_medium">
+        <item>@drawable/m1</item>
+        <item>@drawable/m2</item>
+        <item>@drawable/m3</item>
+        <item>@drawable/m4</item>
+        <item>@drawable/m5</item>
+        <item>@drawable/m6</item>
+        <item>@drawable/m7</item>
+        <item>@drawable/m8</item>
+        <item>@drawable/m9</item>
+        <item>@drawable/m10</item>
+        <item>@drawable/m11</item>
+        <item>@drawable/m12</item>
+        <item>@drawable/m13</item>
+        <item>@drawable/m14</item>
+        <item>@drawable/m15</item>
+        <item>@drawable/m16</item>
+        <item>@drawable/m17</item>
+        <item>@drawable/m18</item>
+        <item>@drawable/m19</item>
+        <item>@drawable/m20</item>
+        <item>@drawable/m21</item>
+        <item>@drawable/m22</item>
+        <item>@drawable/m23</item>
+        <item>@drawable/m24</item>
+        <item>@drawable/m25</item>
+        <item>@drawable/m26</item>
+        <item>@drawable/m27</item>
+        <item>@drawable/m28</item>
+        <item>@drawable/m29</item>
+        <item>@drawable/m30</item>
+    </array>
+
+    <string-array name="mediumA">
+        <item>Rambu Perintah</item>
+        <item>Melindungi pengendara dari razia kepolisian</item>
+        <item>Rambu Perintah</item>
+        <item>Nyalakan lampu Sein</item>
+        <item>Memiringkan sepeda motor dan badan pengemudi ke arah pusat tikungan yang sesuai dengan kecepatan dan ketajaman tikungan</item>
+        <item>Rambu Perintah</item>
+        <item>Akan berjalan</item>
+        <item>Minta maaf dan mematuhi tilang sesuai prosedur</item>
+        <item>Berkendara seenaknya seolah jalan milik clubnya, mengintimidasi pengendara lain dengan tidak sopan, dan alay ugal2an di jalan.</item>
+        <item>Engine Guard dan Handguard</item>
+        <item>Ketenangan</item>
+        <item>Tar</item>
+        <item>mengurangi rasa sakit pada pembedahan</item>
+        <item>Operasi</item>
+        <item>fly</item>
+        <item>Kafein</item>
+        <item>mampu mambuat seseorang berhalusinasi</item>
+        <item>Antibiotik</item>
+        <item>Pusing</item>
+        <item>Obat tidur</item>
+        <item>Saiful Ilah</item>
+        <item>Sedati</item>
+        <item>Prambon</item>
+        <item>Sidoarjo</item>
+        <item>PT Pakerin</item>
+        <item>Mojokerto</item>
+        <item>Krian</item>
+        <item>Candi Arimbi</item>
+        <item>Menggambarkan Ketenangan</item>
+        <item>Sagita</item>
+    </string-array>
+
+    <string-array name="mediumB">
+        <item>Rambu Peringatan</item>
+        <item>melindungi kepala dari sinar matahari</item>
+        <item>Rambu peringatan</item>
+        <item>Menambah kecepatan</item>
+        <item>Menambah kecepatan pada jarak pendek sebelum mencapai tikungan</item>
+        <item>Rambu peringatan </item>
+        <item>Akan merubah arah</item>
+        <item>Tidak mengakui kesalahan</item>
+        <item>Berkendara menggunakan helm half face sambil merokok dan telinga mendengarkan headset, bahkan sepion pun cuma sebelah</item>
+        <item>Protector dan Jas Hujan</item>
+        <item>Ketergantungan</item>
+        <item>Nikotin</item>
+        <item>mengurangi rasa kantuk</item>
+        <item>Detoksifikasi</item>
+        <item>Overdesis</item>
+        <item>Nikotin</item>
+        <item>dapat mambantu meningkatkan kreativitas belajar</item>
+        <item>Stimulan</item>
+        <item>Rasa ingin tahu</item>
+        <item>Penenang</item>
+        <item>Nur Ahmad Syaifuddin</item>
+        <item>Candi</item>
+        <item>Wonoayu</item>
+        <item>Sedati</item>
+        <item>PT Tjiwi Kimia</item>
+        <item>Sidoarjo</item>
+        <item>Balongbendo</item>
+        <item>Sawunggaling</item>
+        <item>Menggambarkan Keteguhan iman Rakyat Sidoarjo</item>
+        <item>Lagista</item>
+    </string-array>
+
+    <string-array name="mediumC">
+        <item>Rambu Larangan</item>
+        <item>melindungi kepala dari benturan</item>
+        <item>Rambu Larangan</item>
+        <item>Melihat spion</item>
+        <item>Memiringkan sepeda motor ke arah pusat tikungan dan tetap dalam posisi badan tegak</item>
+        <item>Rambu Larangan</item>
+        <item>Akan melakukan pengereman</item>
+        <item>Minta maaf lalu minta damai</item>
+        <item>Berkendara sesuai rambu2 dan fokus, dalam keadaan sadar juga tidak bermanuver membahayakan diri dan orang lain.</item>
+        <item>Sarung tangan dan Sarung sholat</item>
+        <item>Kekuatan</item>
+        <item>Kafein</item>
+        <item>Mengobati flu</item>
+        <item>Otopsi</item>
+        <item>Sakau</item>
+        <item>Tar</item>
+        <item>mampu mempercepat kerja jantung dan otak</item>
+        <item>Depresan</item>
+        <item>Rasa Capek</item>
+        <item>Perangsang</item>
+        <item>Khofifah Indar Parawansa</item>
+        <item>Buduran</item>
+        <item>Tarik</item>
+        <item>Tanggulangin</item>
+        <item>PT Star Paper Supply</item>
+        <item>Pacitan</item>
+        <item>Sedati</item>
+        <item>Motif Udang Bandeng</item>
+        <item>Menggambarkan Kesuburan Daerah Sidoarjo</item>
+        <item>New Pallapa</item>
+    </string-array>
+
+    <array name="no_hard">
+        <item>@drawable/h71</item>
+        <item>@drawable/h72</item>
+        <item>@drawable/h73</item>
+        <item>@drawable/h74</item>
+        <item>@drawable/h75</item>
+        <item>@drawable/h76</item>
+        <item>@drawable/h77</item>
+        <item>@drawable/h78</item>
+        <item>@drawable/h79</item>
+        <item>@drawable/h80</item>
+        <item>@drawable/h81</item>
+        <item>@drawable/h82</item>
+        <item>@drawable/h83</item>
+        <item>@drawable/h84</item>
+        <item>@drawable/h85</item>
+        <item>@drawable/h86</item>
+        <item>@drawable/h87</item>
+        <item>@drawable/h88</item>
+        <item>@drawable/h89</item>
+        <item>@drawable/h90</item>
+    </array>
+
+
+    <array name="soal_hard">
+        <item>@drawable/h1</item>
+        <item>@drawable/h2</item>
+        <item>@drawable/h3</item>
+        <item>@drawable/h4</item>
+        <item>@drawable/h5</item>
+        <item>@drawable/h6</item>
+        <item>@drawable/h7</item>
+        <item>@drawable/h8</item>
+        <item>@drawable/h9</item>
+        <item>@drawable/h10</item>
+        <item>@drawable/h11</item>
+        <item>@drawable/h12</item>
+        <item>@drawable/h13</item>
+        <item>@drawable/h14</item>
+        <item>@drawable/h15</item>
+        <item>@drawable/h16</item>
+        <item>@drawable/h17</item>
+        <item>@drawable/h18</item>
+        <item>@drawable/h19</item>
+        <item>@drawable/h20</item>
+    </array>
+
+    <string-array name="apilih">
+        <item>Soekarni</item>
+        <item>Bung Karno</item>
+        <item>17 Agustus</item>
+        <item>Politik</item>
+        <item>Jepara</item>
+        <item>Tanggulangin</item>
+        <item>Tulangan</item>
+        <item>Monumen Bandeng Udang</item>
+        <item>Bandeng Asap</item>
+        <item>Soekarwo</item>
+        <item>Sedati</item>
+        <item>Batik</item>
+        <item>Cave Hits</item>
+        <item>Candi Sumur</item>
+        <item>Sidoarjo</item>
+        <item>Deltras FC</item>
+        <item>Universitas Narotama</item>
+        <item>17</item>
+        <item>2004</item>
+        <item>Tanggulangin</item>
+    </string-array>
+
+
+    <string-array name="bpilih">
+        <item>Soeharto</item>
+        <item>Bung Hatta</item>
+        <item>10 Oktober</item>
+        <item>Pendidikan</item>
+        <item>Sidoarjo</item>
+        <item>Sidoarjo</item>
+        <item>Candi</item>
+        <item>Monumen Sidoarjo</item>
+        <item>Bandeng Bakar</item>
+        <item>Saiful ilah</item>
+        <item>Jabon</item>
+        <item>Tas</item>
+        <item>Cave Jaman Now</item>
+        <item>Candi Pari</item>
+        <item>Sedati</item>
+        <item>Persida</item>
+        <item>Universitas Maarif Hasyim Latif</item>
+        <item>18</item>
+        <item>2005</item>
+        <item>Taman</item>
+    </string-array>
+
+
+    <string-array name="cpilih">
+        <item>Soetomo</item>
+        <item>Bung Syahrir</item>
+        <item>10 November</item>
+        <item>Ekonomi</item>
+        <item>Jakarta</item>
+        <item>Buduran</item>
+        <item>Taman</item>
+        <item>Monumen Jayandaru</item>
+        <item>Bandeng Goreng</item>
+        <item>Nur Ahmad Syaifuddin</item>
+        <item>Taman</item>
+        <item>Bandeng</item>
+        <item>Kebun Modern</item>
+        <item>Candi TawangAlun</item>
+        <item>Waru</item>
+        <item>Sidoarjo United</item>
+        <item>Universitas Nahdatul Ulama Sidoarjo</item>
+        <item>19</item>
+        <item>2006</item>
+        <item>Tarik</item>
+    </string-array>
+
+    <string-array name="dpilih">
+        <item>Soekarno</item>
+        <item>Bung Tomo</item>
+        <item>11 November</item>
+        <item>Keagamaan</item>
+        <item>Demak</item>
+        <item>Tulangan</item>
+        <item>Buduran</item>
+        <item>Monumen Perjuangan</item>
+        <item>Bandeng Presto</item>
+        <item>Hadi Sutjipto</item>
+        <item>Porong</item>
+        <item>Udang</item>
+        <item>Kebun Coklat</item>
+        <item>Candi Pamotan</item>
+        <item>Buduran</item>
+        <item>Persido</item>
+        <item>Universitas Muhammadiyah Sidoarjo</item>
+        <item>20</item>
+        <item>2007</item>
+        <item>Tulangan</item>
+    </string-array>
+
+
+    <array name="no_diff">
+        <item>@drawable/dif1</item>
+        <item>@drawable/dif2</item>
+        <item>@drawable/dif3</item>
+        <item>@drawable/dif4</item>
+        <item>@drawable/dif5</item>
+        <item>@drawable/dif6</item>
+        <item>@drawable/dif7</item>
+        <item>@drawable/dif8</item>
+        <item>@drawable/dif9</item>
+        <item>@drawable/dif10</item>
+    </array>
+
+    <string-array name="aDiff">
+        <item>Kaktus Berair</item>
+        <item>Lubang Hitam Supermasive</item>
+        <item>Padang Pasir</item>
+        <item>Pintu Pertama</item>
+        <item>Orang yang memasak sosis</item>
+        <item>Utara</item>
+        <item>Bondy</item>
+        <item>Diana</item>
+        <item>Diana</item>
+        <item>Sun</item>
+    </string-array>
+
+    <string-array name="bDiff">
+        <item>Kolam</item>
+        <item>Danau yang penuh Hiu Paus Raksasa</item>
+        <item>Ladang</item>
+        <item>Pintu Kedua</item>
+        <item>Orang yang meminum jus</item>
+        <item>Timur</item>
+        <item>Molly</item>
+        <item>Denis</item>
+        <item>Eriko</item>
+        <item>Marina</item>
+    </string-array>
+    <string-array name="cDiff">
+        <item>Danau</item>
+        <item>Lubang Besar</item>
+        <item>Pantai</item>
+        <item>Pintu Ketiga</item>
+        <item>Orang yang membawa ikan</item>
+        <item>Selatan</item>
+        <item>Jerry</item>
+        <item>Andre</item>
+        <item>Mark</item>
+        <item>Mr.James</item>
+    </string-array>
+    <string-array name="dDiff">
+        <item>Anak Sungai</item>
+        <item>Gunung setinggi Langit</item>
+        <item>Tidak Memilih</item>
+        <item>Pintu Keempat</item>
+        <item>Orang yang membawa es cream</item>
+        <item>Barat</item>
+        <item>Tukang Ledeng</item>
+        <item>Wanita yang memanggil polisi</item>
+        <item>Viola</item>
+        <item>Rodrigo</item>
+    </string-array>
+
+</resources>
